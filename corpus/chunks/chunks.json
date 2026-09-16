@@ -1,0 +1,158 @@
+[
+  {
+    "doc_id": "POLICY_001",
+    "doc_title": "Cross-Venue Booking and Travel Policy",
+    "section": "Overview",
+    "text": "This document covers policies that apply across all venues managed by the\nMeridian Events Group (Grand Meridian Conference Center, Willowbrook Garden\nPavilion, and Ironworks Loft), including rules specific to international\nbookings."
+  },
+  {
+    "doc_id": "POLICY_001",
+    "doc_title": "Cross-Venue Booking and Travel Policy",
+    "section": "International Bookings",
+    "text": "For events with attendees traveling internationally, the events office\nrequires a finalized guest list 30 days in advance to process visa\ninvitation letters. International corporate bookings additionally require a\nsigned currency-hedging addendum if the contract is paid in a non-USD\ncurrency, since venue pricing is quoted in USD."
+  },
+  {
+    "doc_id": "POLICY_001",
+    "doc_title": "Cross-Venue Booking and Travel Policy",
+    "section": "Force Majeure",
+    "text": "Any venue booking may be postponed without cancellation penalty if a\nforce-majeure event (natural disaster, government travel restriction,\ndeclared public health emergency) prevents the event from occurring. This\noverrides the standard per-venue cancellation policy."
+  },
+  {
+    "doc_id": "POLICY_001",
+    "doc_title": "Cross-Venue Booking and Travel Policy",
+    "section": "Multi-Event Discounts",
+    "text": "Clients booking more than one venue within the same calendar year receive a\n5% discount on the second and subsequent bookings, applied to the base\nrental fee only (not catering or AV add-ons)."
+  },
+  {
+    "doc_id": "POLICY_001",
+    "doc_title": "Cross-Venue Booking and Travel Policy",
+    "section": "Payment Terms",
+    "text": "All deposits are non-transferable between venues. Final balances are due 14\ndays before the event date across all three venues, regardless of each\nvenue's individual cancellation window."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "Overview",
+    "text": "The Grand Meridian Conference Center is a downtown venue located at 400 Harbor\nPlaza. It offers five configurable event halls and is the flagship venue for\ncorporate conferences, product launches, and large weddings."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "Capacity",
+    "text": "The Grand Ballroom holds up to 800 guests in theater-style seating or 450\nguests banquet-style. The three breakout rooms each hold 60 guests\nclassroom-style. Maximum building occupancy including staff is 950."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "Pricing",
+    "text": "Full-day rental of the Grand Ballroom is $12,000 on weekdays and $16,500 on\nweekends. Breakout rooms rent separately at $1,200/day each. A 20% deposit is\nrequired to hold a date."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "Cancellation Policy",
+    "text": "Cancellations made more than 90 days before the event receive a full refund\nminus a $500 administrative fee. Cancellations between 30 and 90 days receive\na 50% refund. Cancellations within 30 days of the event are non-refundable.\nDate changes (not cancellations) are permitted once at no charge if requested\nmore than 45 days in advance."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "Catering",
+    "text": "In-house catering is mandatory for events over 200 guests. The venue offers\nthree tiers: Classic ($85/person), Premium ($140/person), and Executive\n($210/person), all including a plated dinner and non-alcoholic beverages.\nOutside catering is permitted only for events under 200 guests, subject to a\n$1,500 outside-caterer fee."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "AV and Equipment",
+    "text": "Built-in AV includes a 20-foot LED screen, wireless microphones, and a house\nsound system, included in the ballroom rental. Additional stage lighting\nrigs rent for $600/day."
+  },
+  {
+    "doc_id": "VENUE_001",
+    "doc_title": "Grand Meridian Conference Center",
+    "section": "International Guest Considerations",
+    "text": "For events involving international attendees, the venue can arrange\nmultilingual signage and provides a currency-neutral payment desk. Visa\ninvitation letters for international guests can be requested through the\nevents office with 15 business days' notice."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Overview",
+    "text": "Willowbrook Garden Pavilion is an outdoor-covered venue set in a botanical\ngarden, popular for weddings and smaller receptions. Located at 22 Willow\nLane, it has one primary pavilion and an adjoining lawn."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Capacity",
+    "text": "The pavilion seats 220 guests banquet-style or 300 standing. The adjoining\nlawn can accommodate an additional 150 guests for cocktail-style overflow.\nThere is no indoor backup space, so a tent add-on is recommended for\nrain-risk dates."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Pricing",
+    "text": "Pavilion rental is $6,800 for a 10-hour block. The rain-contingency tent\nadd-on is $2,200. A 25% deposit secures the booking."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Cancellation Policy",
+    "text": "Cancellations more than 120 days out receive a full refund minus a $300\nprocessing fee. Cancellations between 60 and 120 days receive a 40% refund.\nNo refunds are issued inside 60 days. The rain-contingency tent fee is\nnon-refundable once the tent is reserved, regardless of notice period."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Catering",
+    "text": "Willowbrook maintains a preferred-vendor list of five outside caterers; any\nvendor from that list may be used at no additional fee. Caterers not on the\nlist require a $900 approval fee and a food-safety certificate on file two\nweeks before the event."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "AV and Equipment",
+    "text": "Outdoor-rated sound system and two wireless lapel mics are included.\nAdditional uplighting for the garden path is available at $450/event."
+  },
+  {
+    "doc_id": "VENUE_002",
+    "doc_title": "Willowbrook Garden Pavilion",
+    "section": "Accessibility",
+    "text": "Paved pathways connect parking to the pavilion; two accessible restrooms are\navailable on-site."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "Overview",
+    "text": "Ironworks Loft is a converted industrial warehouse at 88 Foundry Street,\nfavored for product launches, tech conferences, and corporate parties\nwanting an exposed-brick, high-ceiling aesthetic."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "Capacity",
+    "text": "The main loft floor holds 500 guests standing or 280 seated theater-style.\nA mezzanine level adds seating for 80 more guests and is included in the\nbase rental."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "Pricing",
+    "text": "Base rental is $9,500 for an 8-hour block, with a $750/hour overage fee.\nA 15% deposit is due at signing, with the balance due 14 days before the\nevent."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "Cancellation Policy",
+    "text": "Cancellations more than 60 days before the event forfeit only the deposit.\nCancellations within 60 days forfeit the deposit plus 25% of the remaining\nbalance. Cancellations within 14 days forfeit the full contracted amount.\nCorporate clients with a signed master services agreement are eligible for\na one-time date-transfer waiver in lieu of cancellation fees."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "Catering",
+    "text": "No in-house catering; clients must use one of eight licensed caterers from\nthe building's approved list, each independently priced. A $400 kitchen-use\nfee applies to any caterer using the on-site prep kitchen."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "AV and Equipment",
+    "text": "Full production package (line-array sound, moving-head lighting, 4K\nprojection) is available as an add-on for $3,200/day. Basic house sound and\nlighting are included in the base rental."
+  },
+  {
+    "doc_id": "VENUE_003",
+    "doc_title": "Ironworks Loft",
+    "section": "International Guest Considerations",
+    "text": "Ironworks Loft does not provide visa support letters or multilingual\nsignage; clients hosting international attendees should arrange this\nindependently."
+  }
+]
